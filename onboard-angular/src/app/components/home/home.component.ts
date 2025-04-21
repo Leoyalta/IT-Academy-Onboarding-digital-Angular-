@@ -1,4 +1,3 @@
-// src/app/components/home/home.component.ts
 import { Component, OnInit } from '@angular/core';
 import { StepsService } from '../../services/steps.service';
 import { iStep } from '../../interfaces/iStep.interface';
