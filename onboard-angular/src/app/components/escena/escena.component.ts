@@ -36,12 +36,12 @@ export class EscenaComponent {
 
   nextSlide() {
     this.direction = 'right';
-    this.current = (this.current + 1) % this.steps.length;
+    this.current++;
   }
 
   prevSlide() {
     this.direction = 'left';
-    this.current = (this.current - 1 + this.steps.length) % this.steps.length;
+    this.current--;
   }
 
   goToSlide(index: number) {
