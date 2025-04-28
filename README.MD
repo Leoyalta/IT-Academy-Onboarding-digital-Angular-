@@ -2,13 +2,13 @@
 
 ## Descripción
 
-Este proyecto es un slider interactivo desarrollado con Angular 17 utilizando componentes standalone. Demuestra el uso de animaciones para transiciones suaves entre diapositivas, cada una con su propio título, descripción e imagen. Es una solución moderna y modular que aprovecha las últimas capacidades de Angular.
+Este proyecto es un slider interactivo desarrollado con Angular 19 utilizando componentes standalone. Demuestra el uso de animaciones para transiciones suaves entre diapositivas, cada una con su propio título, descripción e imagen. Es una solución moderna y modular que aprovecha las últimas capacidades de Angular.
 
 ## Tecnologías Utilizadas
 
 - **Angular 17**: Framework moderno para el desarrollo de aplicaciones web.
 - **TypeScript**: Lenguaje de programación con tipado estático.
-- **Componentes Standalone**: Nueva funcionalidad de Angular 17 que permite crear componentes sin necesidad de NgModules.
+- **Componentes Standalone**: Nueva funcionalidad de Angular 19 que permite crear componentes sin necesidad de NgModules.
 - **SCSS**: Preprocesador de CSS que permite el uso de variables, anidamiento y otras características avanzadas.
 - **Angular Animations**: Módulo para implementar animaciones en la aplicación.
 
@@ -33,7 +33,7 @@ Este proyecto es un slider interactivo desarrollado con Angular 17 utilizando co
 - ✅ Navegación entre diapositivas mediante botones y puntos indicadores.
 - ✅ Diseño modular utilizando componentes standalone.
 - ✅ Estilos personalizados con SCSS.
-- ✅ Código limpio y mantenible gracias a la arquitectura moderna de Angular 17.
+- ✅ Código limpio y mantenible gracias a la arquitectura moderna de Angular 19.
 
 ## Demo
 
